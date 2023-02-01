@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EthicalFlipper
-- 👀 I’m interested in learning about JavaScript, HTML and advanced Python
-- 🌱 I’m currently learning Python and learning how to operate kali Linux
-- 💞️ I’m looking to collaborate on any Python projects
+- 👀 I love coding in Python
+- 🌱 I'm always trying to learn new things and improve my skills
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: github.tristan@gmail.com
 
 
